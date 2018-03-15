@@ -439,10 +439,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": false
+            "showSubTitle": true
           },
-          "title": "Заказать звонок или задать вопрос",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "Contact Form",
+          "subtitle": "Заказать обратный звонок или задать вопрос",
           "form": {
             "action": "ap.rx@ya.ru",
             "alerts": {
@@ -474,6 +474,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#000000"
             }
           }
         },
