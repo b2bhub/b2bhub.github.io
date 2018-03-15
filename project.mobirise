@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 26,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/b2bicon-128x113.png",
     "noImageResize": ""
@@ -91,6 +91,44 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-o",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "SOLID COLOR INTRO",
+          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
@@ -275,7 +313,7 @@
         {
           "_styles": {
             ".card-subtitle": {
-              "color": "#bcbcbc"
+              "color": "#000000"
             },
             ".iconbox": {
               "background-color": "#f2f2f2",
@@ -325,7 +363,7 @@
             }
           },
           "title1": "$99/месяц",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "Компенсация себестоимости",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -340,7 +378,7 @@
             }
           },
           "title2": "1.75 %",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "Вознаграждение, как % от продаж успешно подготовленному Клиенту",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -355,7 +393,7 @@
             }
           },
           "title3": "По согласованию",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "Дополнительные/накладные расходы",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -405,26 +443,19 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "form2",
-          "_anchor": "form2-7",
+          "_name": "form1",
+          "_anchor": "form1-p",
           "_params": {
+            "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -432,21 +463,41 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Заказать обратный звонок",
-          "subtitle": "Subscribe to our Newsletter",
+          "title": "Заказать звонок или задать вопрос",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "ap.rx@ya.ru",
             "alerts": {
-              "success": "We Call You Back As Soon As Possible"
+              "success": "Thanks for filling out form"
             },
             "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
               "email": {
                 "title": "Email",
-                "customTitle": "Enter Your Phone Number"
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ok</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_tags": [
