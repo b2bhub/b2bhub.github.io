@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 27,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/b2bicon-128x113.png",
     "noImageResize": ""
@@ -92,31 +92,43 @@
       },
       "components": [
         {
+          "_inherit": "header1",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title": {
+              "color": "#000",
+              "font-size": "60px"
             },
-            "SMALL": {
+            ".mbr-section-lead": {
               "color": "#475577"
-            },
-            "H3": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-m",
+          "_name": "header5",
+          "_anchor": "header5-q",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#efefef",
-            "showMeta": true
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "B2B Клиент-менеджмент",
-          "meta": "Выполнение работ, нацеленных на изменение отношения Клиента к закупке из состояния 'Проявил интерес' в состояние 'Готов к предметному диалогу' или другими словами, нацеленных на то, чтобы преобразовать 'холодный' контакт в 'горячего' B2B-Клиента"
+          "text": "Выполнение работ, нацеленных на изменение отношения Клиента к закупке из состояния 'Проявил интерес' в состояние 'Готов к предметному диалогу' или другими словами, нацеленных на то, чтобы преобразовать 'холодный' контакт в 'горячего' B2B-Клиента<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
           "_styles": {
@@ -440,7 +452,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Name* & Company*"
               },
               "email": {
                 "title": "Email",
@@ -454,7 +466,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Сообщение"
+                "customTitle": "Message"
               }
             }
           },
