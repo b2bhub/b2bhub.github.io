@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 27,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/b2bicon-128x113.png",
+    "favicon": "@PROJECT_PATH@/assets/images/b2bicon-128x117.png",
     "noImageResize": ""
   },
   "pages": {
