@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "b2bhub",
-    "currentPage": "index.html",
+    "currentPage": "nurture.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -469,7 +469,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name* & Company*"
+                "customTitle": "Name & Company*"
               },
               "email": {
                 "title": "Email",
