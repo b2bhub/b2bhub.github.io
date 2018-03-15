@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "b2bhub",
-    "currentPage": "nurture.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 27,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/b2bicon-128x117.png",
+    "favicon": "@PROJECT_PATH@/assets/images/images5-128x128.png",
     "noImageResize": ""
   },
   "pages": {
