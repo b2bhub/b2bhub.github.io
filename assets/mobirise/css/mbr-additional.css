@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 
 
 
@@ -422,6 +423,8 @@ h6,
 #header5-0 .mbr-section-lead {
   color: #9c9a9a;
 }
+
+
 #header5-q .mbr-section-title {
   color: #000;
   font-size: 60px;
@@ -458,6 +461,13 @@ h6,
 }
 #form1-p SMALL {
   color: #000000;
+  font-size: 48px;
+  font-family: 'Montserrat', sans-serif;
+}
+#form1-p SPAN {
+  font-size: 36px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #ffffff;
 }
 #testimonials1-8 .card-block P {
   font-size: 14px;
