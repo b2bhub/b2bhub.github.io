@@ -462,7 +462,7 @@
             "showTitle": false,
             "showSubTitle": true
           },
-          "title": "Contact Form",
+          "title": "cf_nurture",
           "subtitle": "<span style=\"font-style: normal;\"><b>Закажите обратный звонок или задайте вопрос</b></span>",
           "form": {
             "action": "ap.rx@ya.ru",
@@ -916,10 +916,10 @@
             "showTitle": false,
             "showSubTitle": true
           },
-          "title": "Contact Form",
+          "title": "cf_green",
           "subtitle": "<span style=\"font-style: normal;\"><b>Замовте звортній дзвінок чи поставте питання</b></span>",
           "form": {
-            "action": "vd@b2bhub.cf",
+            "action": "ap.rx@ya.ru",
             "alerts": {
               "success": "Thanks for filling out form"
             },
