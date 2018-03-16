@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "b2bhub",
-    "currentPage": "nurture.html",
+    "currentPage": "green.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -631,7 +631,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ecologic-3d-house-1920x1080-www-1400x827.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ecologic-3d-house-1920x1080-www-1-1400x827.jpg",
               "link": "",
               "alt": "",
               "title": "",
