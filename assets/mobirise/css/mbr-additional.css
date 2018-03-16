@@ -477,3 +477,53 @@ h6,
 #testimonials1-8 .card-block P {
   font-size: 14px;
 }
+
+
+
+#features4-s .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-s .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-s P {
+  font-size: 14px;
+}
+#pricing-table2-y .mbr-plan-header,
+#pricing-table2-y .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-y ul,
+#pricing-table2-y .mbr-plan-title,
+#pricing-table2-y .mbr-price-value,
+#pricing-table2-y .mbr-price-figure,
+#pricing-table2-y .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-y .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-y .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#form1-v .form-control-label {
+  color: #232323;
+}
+#form1-v SMALL {
+  color: #000000;
+  font-size: 48px;
+  font-family: 'Montserrat', sans-serif;
+}
+#form1-v SPAN {
+  font-size: 36px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #ffffff;
+}
+#form1-v .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#header3-11 .mbr-section-title,
+#header3-11 .mbr-section-subtitle {
+  text-align: center;
+}
