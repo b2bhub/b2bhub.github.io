@@ -607,7 +607,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-12",
           "_params": {
-            "imageSize": "70",
+            "imageSize": "65",
             "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
