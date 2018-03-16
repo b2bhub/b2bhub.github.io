@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "b2bhub",
-    "currentPage": "green.html",
+    "currentPage": "nurture.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -462,7 +462,7 @@
             "showTitle": false,
             "showSubTitle": true
           },
-          "title": "cf_nurture",
+          "title": "CF_Nurture",
           "subtitle": "<span style=\"font-style: normal;\"><b>Закажите обратный звонок или задайте вопрос</b></span>",
           "form": {
             "action": "ap.rx@ya.ru",
@@ -916,7 +916,7 @@
             "showTitle": false,
             "showSubTitle": true
           },
-          "title": "cf_green",
+          "title": "CF_Green",
           "subtitle": "<span style=\"font-style: normal;\"><b>Замовте звортній дзвінок чи поставте питання</b></span>",
           "form": {
             "action": "ap.rx@ya.ru",
