@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -425,6 +426,7 @@ h6,
 }
 
 
+
 #header5-q .mbr-section-title {
   color: #000;
   font-size: 60px;
@@ -468,6 +470,9 @@ h6,
   font-size: 36px;
   font-family: 'Open Sans Condensed', sans-serif;
   color: #ffffff;
+}
+#form1-p .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #testimonials1-8 .card-block P {
   font-size: 14px;
