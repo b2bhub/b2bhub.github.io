@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 39,
+    "uniqCompNum": 45,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/images5-128x128.png",
     "noImageResize": ""
@@ -421,6 +421,29 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-13",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Закажите обратный звонок или задайте вопрос",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -439,7 +462,7 @@
               "font-size": "36px",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
+              "color": "#475577"
             },
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
@@ -449,18 +472,18 @@
           "_anchor": "form1-p",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d8eb9",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubTitle": true
+            "showSubTitle": false
           },
           "title": "CF_Nurture",
           "subtitle": "<span style=\"font-style: normal;\"><b>Закажите обратный звонок или задайте вопрос</b></span>",
@@ -491,7 +514,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>"
         },
         {
           "_tags": [
@@ -605,6 +628,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "60px"
+            }
+          },
           "_anchor": "msg-box5-12",
           "_params": {
             "imageSize": "70",
@@ -654,25 +682,12 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
-            },
-            "P": {
-              "font-size": "14px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-s",
+          "_name": "features3",
+          "_anchor": "features3-18",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -687,7 +702,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 3,
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -695,65 +710,51 @@
             "showButtons": false
           },
           "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "success",
-              "family": "MobiriseIcons",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/400px-be-logo-juryumweltzeichen-menschumwelt-600x720.png",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
               "link": "",
-              "size": 0,
-              "color": "#41a85f",
-              "newWindow": false
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Екологічна МДФ",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Ни один контакт потенциального Клиента, проявившего (когда-либо!) интерес к Вашему Продукту/Услуге (не важно, были ли затрачены время/деньги на его привлечение или нет) не будет потерян впустую!",
+          "caption1": "Для виготовлення фасадів цієї лінійки ми використовуємо плити виробника, який суворо дотримується не тільки обов'язкових вітчизняних та європейских нормативів щодо екологічності, а крім того ще й добровільно отримав сертифікат Blue Angel Ecolabel на власну продукцiю.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "success",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#41a85f",
-              "newWindow": false
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
           "title2": "Нетоксичний клей",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Даже если Клиент не готов к закупке 'здесь и сейчас', это вовсе не означает, что так уж необходимо уповать на 'авось рано или поздно он все-таки не купит у конкурента'!",
+          "caption2": "Допилить",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "success",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#41a85f",
-              "newWindow": false
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
           "title3": "Безпечна плівка",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Руководитель/менеджер, в чьей ответственности заключение сделок, будет намного результативней, если получит 'в работу' несколько Клиентов, готовых к закупке, а не массу контактов, не созревших пока для предметного диалога!",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
           "title4": "Unlimited Sites",
@@ -761,14 +762,11 @@
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
           "title5": "Trendy Website Blocks",
@@ -776,14 +774,11 @@
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
           "title6": "Host Anywhere",
@@ -813,8 +808,8 @@
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-y",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -850,7 +845,7 @@
           "title2": "Люкс",
           "subtitle2": "Оригінальне фрезерування",
           "currency2": "$",
-          "price2": "61",
+          "price2": "56",
           "period2": "/m2",
           "description2": "More details",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">МДФ: Євростандарт Е0</li><li class=\"list-group-item\">Клей: ПУ 2х-компонентний</li><li class=\"list-group-item\">Плівка: ПП, США</li></ul>",
@@ -875,6 +870,29 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Замовте звортній дзвінок чи поставте питання",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -893,7 +911,7 @@
               "font-size": "36px",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
@@ -903,18 +921,18 @@
           "_anchor": "form1-v",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#41a85f",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubTitle": true
+            "showSubTitle": false
           },
           "title": "CF_Green",
           "subtitle": "<span style=\"font-style: normal;\"><b>Замовте звортній дзвінок чи поставте питання</b></span>",
@@ -959,8 +977,8 @@
           "_name": "header3",
           "_anchor": "header3-11",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -1079,26 +1097,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-x",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "(c) All Rights Reserved"
         }
       ]
     }

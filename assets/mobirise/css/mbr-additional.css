@@ -458,6 +458,13 @@ h6,
 #features4-k H4 {
   font-size: 24px;
 }
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-13 H3 {
+  font-size: 36px;
+}
 #form1-p .form-control-label {
   color: #232323;
 }
@@ -469,7 +476,7 @@ h6,
 #form1-p SPAN {
   font-size: 36px;
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
+  color: #475577;
 }
 #form1-p .btn {
   font-family: 'Open Sans', sans-serif;
@@ -480,15 +487,8 @@ h6,
 
 
 
-#features4-s .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-s .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#features4-s P {
-  font-size: 14px;
+#msg-box5-12 H3 {
+  font-size: 60px;
 }
 #pricing-table2-y .mbr-plan-header,
 #pricing-table2-y .mbr-plan-body {
@@ -507,6 +507,13 @@ h6,
 #pricing-table2-y .mbr-plan .list-group-item {
   border-color: #cfcfcf;
 }
+#header3-14 .mbr-section-title,
+#header3-14 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-14 H3 {
+  font-size: 36px;
+}
 #form1-v .form-control-label {
   color: #232323;
 }
@@ -518,7 +525,7 @@ h6,
 #form1-v SPAN {
   font-size: 36px;
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
+  color: #000000;
 }
 #form1-v .btn {
   font-family: 'Open Sans', sans-serif;
