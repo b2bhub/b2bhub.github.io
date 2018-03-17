@@ -294,8 +294,8 @@
               "color": "#000000"
             },
             ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
+              "background-color": "#c0a375",
+              "border-color": "#c0a375"
             },
             "H4": {
               "font-size": "24px"
@@ -307,7 +307,7 @@
           "_name": "features4",
           "_anchor": "features4-k",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
+            "iconsBgColor": "#c0a375",
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -477,7 +477,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -926,7 +926,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
