@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "b2bhub",
-    "currentPage": "green.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -616,7 +616,7 @@
     },
     "green.html": {
       "settings": {
-        "title": "Green Panes",
+        "title": "Green Fronts",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -755,7 +755,7 @@
           },
           "title3": "<span style=\"color: inherit; font-size: 1.25rem; letter-spacing: -1px; line-height: 1.2825;\">Безпечна плівка</span><br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Підбір плівки - найбілш відповідальний крок, тому що вона виконує не тільки декоративну, а (головне?) захисну та бар'єрну функції. Таким чином першочерговою вимогою до виробника має бути здатність гарантувати стабільно(!) виску якість свої продукції. В нашому випадку маркером такої здатності є належність до всесвітньої мережі Sedex (Кодекс соціальної та етичної відповідальності постачальника).",
+          "caption3": "Підбір плівки - найбілш відповідальний крок, тому що вона виконує не тільки декоративну, а (головне?) захисну та бар'єрну функції. Таким чином першочерговою вимогою до виробника має бути здатність гарантувати стабільно(!) високу якість свої продукції. В нашому випадку маркером такої здатності є належність до всесвітньої мережі Sedex (Кодекс соціальної та етичної відповідальності виробника).",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -811,7 +811,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Ціна",
+          "title": "Наші ціни",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
