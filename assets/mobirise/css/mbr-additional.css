@@ -490,22 +490,12 @@ h6,
 #msg-box5-12 H3 {
   font-size: 60px;
 }
-#pricing-table2-y .mbr-plan-header,
-#pricing-table2-y .mbr-plan-body {
-  background-color: #f4f4f4;
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
 }
-#pricing-table2-y ul,
-#pricing-table2-y .mbr-plan-title,
-#pricing-table2-y .mbr-price-value,
-#pricing-table2-y .mbr-price-figure,
-#pricing-table2-y .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-y .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-y .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
+#features2-1f .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
 }
 #header3-14 .mbr-section-title,
 #header3-14 .mbr-section-subtitle {
