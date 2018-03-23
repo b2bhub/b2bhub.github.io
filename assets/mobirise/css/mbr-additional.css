@@ -524,3 +524,63 @@ h6,
 #header3-11 .mbr-section-subtitle {
   text-align: center;
 }
+
+
+
+#header5-1g .mbr-section-title {
+  color: #000;
+  font-size: 60px;
+}
+#header5-1g .mbr-section-lead {
+  color: #475577;
+}
+#features4-1h .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-1h .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-1h P {
+  font-size: 14px;
+}
+#header3-1i .mbr-section-title,
+#header3-1i .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-1j .card-subtitle {
+  color: #000000;
+}
+#features4-1j .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
+}
+#features4-1j H4 {
+  font-size: 24px;
+}
+#header3-1k .mbr-section-title,
+#header3-1k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1k H3 {
+  font-size: 36px;
+}
+#form1-1l .form-control-label {
+  color: #232323;
+}
+#form1-1l SMALL {
+  color: #000000;
+  font-size: 48px;
+  font-family: 'Montserrat', sans-serif;
+}
+#form1-1l SPAN {
+  font-size: 36px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #475577;
+}
+#form1-1l .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#testimonials1-1m .card-block P {
+  font-size: 14px;
+}
