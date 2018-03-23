@@ -1589,7 +1589,7 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone*"
+                "customTitle": "Phone* (with Viber or Telegram!)"
               },
               "message": {
                 "title": "Message",
