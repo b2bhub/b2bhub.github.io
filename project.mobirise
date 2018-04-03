@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "b2bhub",
-    "currentPage": "nurturing.html",
+    "currentPage": "nurture.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -440,7 +440,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Закажите обратный звонок или задайте вопрос",
+          "title": "Сформулируйте постановку задачи или вопрос",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -496,7 +496,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name & Company*"
+                "customTitle": "Name*"
               },
               "email": {
                 "title": "Email",
@@ -506,11 +506,11 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone*"
+                "customTitle": "Company*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Постановка задачи*"
               }
             }
           },
@@ -1523,7 +1523,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Закажите обратный звонок или задайте вопрос",
+          "title": "Сформулируйте постановку задачи или вопрос",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1579,7 +1579,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name & Company*"
+                "customTitle": "Name*"
               },
               "email": {
                 "title": "Email",
@@ -1589,11 +1589,11 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone* (with Viber or Telegram!)"
+                "customTitle": "Company*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Постановка задачи*"
               }
             }
           },
