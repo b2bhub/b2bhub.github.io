@@ -510,7 +510,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Постановка задачи*"
+                "customTitle": "Постановка задачи"
               }
             }
           },
