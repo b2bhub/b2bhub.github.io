@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "b2bhub",
-    "currentPage": "nurture.html",
+    "currentPage": "nurturing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1593,7 +1593,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Постановка задачи*"
+                "customTitle": "Постановка задачи *"
               }
             }
           },
