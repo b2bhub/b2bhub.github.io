@@ -438,10 +438,10 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#fff",
-            "showMeta": false
+            "showMeta": true
           },
-          "title": "Сформулируйте постановку задачи",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Проверить применимость",
+          "meta": "данного подхода в Вашем конкретном случае: с одной стороны это ни к чему Вас не обяжет, с другой - позволит &nbsp;увидеть ситуацию с альтернативной точки зрения..."
         },
         {
           "_tags": [
@@ -490,7 +490,7 @@
           "form": {
             "action": "ap.rx@ya.ru",
             "alerts": {
-              "success": "Thanks for filling out form"
+              "success": "We'll Send You Answer As Soon As Possible"
             },
             "fields": {
               "name": {
@@ -506,11 +506,11 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Company*"
+                "customTitle": "Company WebSite*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "ПОСТАНОВКА ЗАДАЧИ"
+                "customTitle": "Message (Ваш b2b-продукт/услуга, ЦА, желаемые сроки, etc.)"
               }
             }
           },
@@ -1521,10 +1521,10 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#fff",
-            "showMeta": false
+            "showMeta": true
           },
-          "title": "Сформулируйте постановку задачи",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Проверить применимость",
+          "meta": "данного подхода в Вашем конкретном случае: с одной стороны это ни к чему Вас не обяжет, с другой - позволит  увидеть ситуацию с альтернативной точки зрения..."
         },
         {
           "_tags": [
@@ -1573,7 +1573,7 @@
           "form": {
             "action": "ap.rx@ya.ru",
             "alerts": {
-              "success": "Thanks for filling out form"
+              "success": "We'll Send You Answer As Soon As Possible"
             },
             "fields": {
               "name": {
@@ -1589,11 +1589,11 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Company*"
+                "customTitle": "Company WebSite*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "ПОСТАНОВКА ЗАДАЧИ"
+                "customTitle": "Message (Ваш b2b-продукт/услуга, ЦА, желаемые сроки, etc.)"
               }
             }
           },
