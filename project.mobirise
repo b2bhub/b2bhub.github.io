@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 60,
+    "uniqCompNum": 61,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/images5-128x128.png",
     "noImageResize": ""
@@ -340,7 +340,7 @@
               "family": "et-line"
             }
           },
-          "title1": "$99/месяц",
+          "title1": "99..199 $/месяц",
           "subtitle1": "Компенсация себестоимости",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -355,7 +355,7 @@
               "family": "et-line"
             }
           },
-          "title2": "1.75 %",
+          "title2": "0,75..3,75 %",
           "subtitle2": "Вознаграждение, как % от продаж успешно подготовленному Клиенту",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -441,7 +441,7 @@
             "showMeta": true
           },
           "title": "Проверить применимость",
-          "meta": "данного подхода в Вашем конкретном случае: с одной стороны это ни к чему Вас не обяжет, с другой - позволит &nbsp;увидеть ситуацию с альтернативной точки зрения..."
+          "meta": "данного подхода в Вашем конкретном случае: с одной стороны это ни к чему Вас не обяжет, с другой - позволит рассмотреть альтернативное решение стоящей перед Вами задачи."
         },
         {
           "_tags": [
@@ -1423,7 +1423,7 @@
               "family": "et-line"
             }
           },
-          "title1": "$199/месяц",
+          "title1": "199..399 $/месяц",
           "subtitle1": "Компенсация себестоимости",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1438,7 +1438,7 @@
               "family": "et-line"
             }
           },
-          "title2": "1.75 %",
+          "title2": "0,75..3,75 %",
           "subtitle2": "Вознаграждение, как % от продаж успешно подготовленному Клиенту",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1524,7 +1524,7 @@
             "showMeta": true
           },
           "title": "Проверить применимость",
-          "meta": "данного подхода в Вашем конкретном случае: с одной стороны это ни к чему Вас не обяжет, с другой - позволит  увидеть ситуацию с альтернативной точки зрения..."
+          "meta": "данного подхода в Вашем конкретном случае: с одной стороны это ни к чему Вас не обяжет, с другой - позволит рассмотреть альтернативное решение стоящей перед Вами задачи."
         },
         {
           "_tags": [
